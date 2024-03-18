@@ -1,7 +1,7 @@
 # Hola, soy Victor 👋
 ## Programdor estudiado DAM en Ilerna
 
-### Andulicía(España)
+### Andalucía(España)
 ![Dragonite analuz](https://pbs.twimg.com/media/EvTu0czXMAEwN7B.jpg)
 
 <!--
