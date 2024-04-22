@@ -1,6 +1,6 @@
 # Hola, soy Victor 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) en Ilerna, Andalucía, España.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de programador formandome en Desarrollo de Aplicaciones Multiplataforma (DAM) en Ilerna, Andalucía, España.
 
 ## 🚀 Habilidades
 - Java
