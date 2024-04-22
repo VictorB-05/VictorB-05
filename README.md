@@ -13,7 +13,7 @@
 - Desarrollo de Aplicaciones Multiplataforma (DAM) en Ilerna, Andalucía.
 
 ## 📍 Ubicación
-Andalucía, España
+- Andalucía, España
 ![Dragonite analuz](https://pbs.twimg.com/media/EvTu0czXMAEwN7B.jpg)
 
 <!--
